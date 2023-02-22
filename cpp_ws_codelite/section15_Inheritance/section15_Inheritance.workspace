@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section15_Inheritance" Database="" Version="10000">
+  <Project Name="Deriving_our_first_class" Path="Deriving_our_first_class/Deriving_our_first_class.project" Active="No"/>
+  <Project Name="Protected_members_class_access" Path="Protected_members_class_access/Protected_members_class_access.project" Active="No"/>
+  <Project Name="constructor_and_destructor" Path="constructor_and_destructor/constructor_and_destructor.project" Active="No"/>
+  <Project Name="Base_class_initialization" Path="Base_class_initialization/Base_class_initialization.project" Active="No"/>
+  <Project Name="Copy_constructor_assignment_operator" Path="Copy_constructor_assignment_operator/Copy_constructor_assignment_operator.project" Active="No"/>
+  <Project Name="Redifining_base_class_methods" Path="Redifining_base_class_methods/Redifining_base_class_methods.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Deriving_our_first_class" ConfigName="Debug"/>
+      <Project Name="Protected_members_class_access" ConfigName="Debug"/>
+      <Project Name="constructor_and_destructor" ConfigName="Debug"/>
+      <Project Name="Base_class_initialization" ConfigName="Debug"/>
+      <Project Name="Copy_constructor_assignment_operator" ConfigName="Debug"/>
+      <Project Name="Redifining_base_class_methods" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Deriving_our_first_class" ConfigName="Release"/>
+      <Project Name="Protected_members_class_access" ConfigName="Release"/>
+      <Project Name="constructor_and_destructor" ConfigName="Release"/>
+      <Project Name="Base_class_initialization" ConfigName="Release"/>
+      <Project Name="Copy_constructor_assignment_operator" ConfigName="Release"/>
+      <Project Name="Redifining_base_class_methods" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

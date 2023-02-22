@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section14_operator_overloading" Database="" Version="10000">
+  <Project Name="mystring_name_intro" Path="mystring_start/mystring_start.project" Active="No"/>
+  <Project Name="mystring_copy_assignment" Path="mystring_copy_assignment/mystring_copy_assignment.project" Active="No"/>
+  <Project Name="mystring_move_assignment" Path="mystring_move_assignment/mystring_move_assignment.project" Active="No"/>
+  <Project Name="mystring_operator_method" Path="Mystring_operator_method/Mystring_operator_method.project" Active="No"/>
+  <Project Name="mystring_operator_functions" Path="mystring_operator_functions/mystring_operator_functions.project" Active="No"/>
+  <Project Name="mystring_insertion_extraction" Path="mystring_insertion_extraction/mystring_insertion_extraction.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="mystring_name_intro" ConfigName="Debug"/>
+      <Project Name="mystring_copy_assignment" ConfigName="Debug"/>
+      <Project Name="mystring_move_assignment" ConfigName="Debug"/>
+      <Project Name="mystring_operator_method" ConfigName="Debug"/>
+      <Project Name="mystring_operator_functions" ConfigName="Debug"/>
+      <Project Name="mystring_insertion_extraction" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="mystring_name_intro" ConfigName="Release"/>
+      <Project Name="mystring_copy_assignment" ConfigName="Release"/>
+      <Project Name="mystring_move_assignment" ConfigName="Release"/>
+      <Project Name="mystring_operator_method" ConfigName="Release"/>
+      <Project Name="mystring_operator_functions" ConfigName="Release"/>
+      <Project Name="mystring_insertion_extraction" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

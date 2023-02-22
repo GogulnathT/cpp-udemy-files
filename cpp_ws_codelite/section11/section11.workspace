@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section11" Database="" Version="10000">
+  <Project Name="math_function" Path="math_function/math_function.project" Active="No"/>
+  <Project Name="random_function" Path="random_function/random_function.project" Active="No"/>
+  <Project Name="function_definition" Path="function_definition/function_definition.project" Active="No"/>
+  <Project Name="function_prototype" Path="function_prototype/function_prototype.project" Active="No"/>
+  <Project Name="functions_passbyvalue" Path="functions_passbyvalue/functions_passbyvalue.project" Active="No"/>
+  <Project Name="function_temperature" Path="function_temperature/function_temperature.project" Active="No"/>
+  <Project Name="default_arguments" Path="default_arguments/default_arguments.project" Active="Yes"/>
+  <Project Name="operation_overloading" Path="operation_overloading/operation_overloading.project" Active="No"/>
+  <Project Name="functions_and_array" Path="functions_and_array/functions_and_array.project" Active="No"/>
+  <Project Name="functions_passbyreference" Path="functions_passbyreference/functions_passbyreference.project" Active="No"/>
+  <Project Name="scope_rules" Path="scope_rules/scope_rules.project" Active="No"/>
+  <Project Name="factorial_recursion" Path="factorial_recursion/factorial_recursion.project" Active="No"/>
+  <Project Name="fibonacci_recursion" Path="fibonacci_recursion/fibonacci_recursion.project" Active="No"/>
+  <Project Name="simple_recursion" Path="simple_recursion/simple_recursion.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="math_function" ConfigName="Debug"/>
+      <Project Name="random_function" ConfigName="Debug"/>
+      <Project Name="function_definition" ConfigName="Debug"/>
+      <Project Name="function_prototype" ConfigName="Debug"/>
+      <Project Name="functions_passbyvalue" ConfigName="Debug"/>
+      <Project Name="function_temperature" ConfigName="Debug"/>
+      <Project Name="default_arguments" ConfigName="Debug"/>
+      <Project Name="operation_overloading" ConfigName="Debug"/>
+      <Project Name="functions_and_array" ConfigName="Debug"/>
+      <Project Name="functions_passbyreference" ConfigName="Debug"/>
+      <Project Name="scope_rules" ConfigName="Debug"/>
+      <Project Name="factorial_recursion" ConfigName="Debug"/>
+      <Project Name="fibonacci_recursion" ConfigName="Debug"/>
+      <Project Name="simple_recursion" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="math_function" ConfigName="Release"/>
+      <Project Name="random_function" ConfigName="Release"/>
+      <Project Name="function_definition" ConfigName="Release"/>
+      <Project Name="function_prototype" ConfigName="Release"/>
+      <Project Name="functions_passbyvalue" ConfigName="Release"/>
+      <Project Name="function_temperature" ConfigName="Release"/>
+      <Project Name="default_arguments" ConfigName="Release"/>
+      <Project Name="operation_overloading" ConfigName="Release"/>
+      <Project Name="functions_and_array" ConfigName="Release"/>
+      <Project Name="functions_passbyreference" ConfigName="Release"/>
+      <Project Name="scope_rules" ConfigName="Release"/>
+      <Project Name="factorial_recursion" ConfigName="Release"/>
+      <Project Name="fibonacci_recursion" ConfigName="Release"/>
+      <Project Name="simple_recursion" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

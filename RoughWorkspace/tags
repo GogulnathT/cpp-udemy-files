@@ -1,0 +1,82 @@
+_fstat	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _fstat _fstat32$/;"	macro	line:5
+_stat	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _stat _stat32$/;"	macro	line:6
+_wstat	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _wstat _wstat32$/;"	macro	line:7
+_fstati64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _fstati64 _fstat32i64$/;"	macro	line:8
+_stati64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _stati64 _stat32i64$/;"	macro	line:9
+_wstati64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _wstati64 _wstat32i64$/;"	macro	line:10
+_fstat32	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _fstat32 _fstat$/;"	macro	line:12
+_stat32	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _stat32 _stat$/;"	macro	line:13
+_wstat32	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _wstat32 _wstat$/;"	macro	line:14
+_fstat32i64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _fstat32i64 _fstati64$/;"	macro	line:15
+_stat32i64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _stat32i64 _stati64$/;"	macro	line:16
+_wstat32i64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _wstat32i64 _wstati64$/;"	macro	line:17
+_fstat	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _fstat _fstat64i32$/;"	macro	line:20
+_fstati64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _fstati64 _fstat64$/;"	macro	line:21
+_stat	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _stat _stat64i32$/;"	macro	line:22
+_stati64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _stati64 _stat64$/;"	macro	line:23
+_wstat	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _wstat _wstat64i32$/;"	macro	line:24
+_wstati64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _wstati64 _wstat64$/;"	macro	line:25
+_stat32	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^  struct _stat32 {$/;"	struct	line:28
+st_dev	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _dev_t st_dev;$/;"	member	line:29	struct:_stat32	access:public
+st_ino	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^   _ino_t st_ino;$/;"	member	line:30	struct:_stat32	access:public
+st_mode	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    unsigned short st_mode;$/;"	member	line:31	struct:_stat32	access:public
+st_nlink	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_nlink;$/;"	member	line:32	struct:_stat32	access:public
+st_uid	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_uid;$/;"	member	line:33	struct:_stat32	access:public
+st_gid	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_gid;$/;"	member	line:34	struct:_stat32	access:public
+st_rdev	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _dev_t st_rdev;$/;"	member	line:35	struct:_stat32	access:public
+st_size	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _off_t st_size;$/;"	member	line:36	struct:_stat32	access:public
+st_atime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time32_t st_atime;$/;"	member	line:37	struct:_stat32	access:public
+st_mtime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time32_t st_mtime;$/;"	member	line:38	struct:_stat32	access:public
+st_ctime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time32_t st_ctime;$/;"	member	line:39	struct:_stat32	access:public
+stat	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^  struct stat {$/;"	struct	line:43
+st_dev	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _dev_t st_dev;$/;"	member	line:44	struct:stat	access:public
+st_ino	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _ino_t st_ino;$/;"	member	line:45	struct:stat	access:public
+st_mode	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    unsigned short st_mode;$/;"	member	line:46	struct:stat	access:public
+st_nlink	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_nlink;$/;"	member	line:47	struct:stat	access:public
+st_uid	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_uid;$/;"	member	line:48	struct:stat	access:public
+st_gid	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_gid;$/;"	member	line:49	struct:stat	access:public
+st_rdev	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _dev_t st_rdev;$/;"	member	line:50	struct:stat	access:public
+st_size	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _off_t st_size;$/;"	member	line:51	struct:stat	access:public
+st_atime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    time_t st_atime;$/;"	member	line:52	struct:stat	access:public
+st_mtime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    time_t st_mtime;$/;"	member	line:53	struct:stat	access:public
+st_ctime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    time_t st_ctime;$/;"	member	line:54	struct:stat	access:public
+_stat32i64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^  struct _stat32i64 {$/;"	struct	line:58
+st_dev	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _dev_t st_dev;$/;"	member	line:59	struct:_stat32i64	access:public
+st_ino	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _ino_t st_ino;$/;"	member	line:60	struct:_stat32i64	access:public
+st_mode	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    unsigned short st_mode;$/;"	member	line:61	struct:_stat32i64	access:public
+st_nlink	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_nlink;$/;"	member	line:62	struct:_stat32i64	access:public
+st_uid	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_uid;$/;"	member	line:63	struct:_stat32i64	access:public
+st_gid	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_gid;$/;"	member	line:64	struct:_stat32i64	access:public
+st_rdev	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _dev_t st_rdev;$/;"	member	line:65	struct:_stat32i64	access:public
+st_size	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __MINGW_EXTENSION __int64 st_size;$/;"	member	line:66	struct:_stat32i64	access:public
+st_atime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time32_t st_atime;$/;"	member	line:67	struct:_stat32i64	access:public
+st_mtime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time32_t st_mtime;$/;"	member	line:68	struct:_stat32i64	access:public
+st_ctime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time32_t st_ctime;$/;"	member	line:69	struct:_stat32i64	access:public
+_stat64i32	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^  struct _stat64i32 {$/;"	struct	line:72
+st_dev	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _dev_t st_dev;$/;"	member	line:73	struct:_stat64i32	access:public
+st_ino	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _ino_t st_ino;$/;"	member	line:74	struct:_stat64i32	access:public
+st_mode	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    unsigned short st_mode;$/;"	member	line:75	struct:_stat64i32	access:public
+st_nlink	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_nlink;$/;"	member	line:76	struct:_stat64i32	access:public
+st_uid	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_uid;$/;"	member	line:77	struct:_stat64i32	access:public
+st_gid	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_gid;$/;"	member	line:78	struct:_stat64i32	access:public
+st_rdev	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _dev_t st_rdev;$/;"	member	line:79	struct:_stat64i32	access:public
+st_size	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _off_t st_size;$/;"	member	line:80	struct:_stat64i32	access:public
+st_atime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time64_t st_atime;$/;"	member	line:81	struct:_stat64i32	access:public
+st_mtime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time64_t st_mtime;$/;"	member	line:82	struct:_stat64i32	access:public
+st_ctime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time64_t st_ctime;$/;"	member	line:83	struct:_stat64i32	access:public
+_stat64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^  struct _stat64 {$/;"	struct	line:86
+st_dev	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _dev_t st_dev;$/;"	member	line:87	struct:_stat64	access:public
+st_ino	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _ino_t st_ino;$/;"	member	line:88	struct:_stat64	access:public
+st_mode	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    unsigned short st_mode;$/;"	member	line:89	struct:_stat64	access:public
+st_nlink	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_nlink;$/;"	member	line:90	struct:_stat64	access:public
+st_uid	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_uid;$/;"	member	line:91	struct:_stat64	access:public
+st_gid	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    short st_gid;$/;"	member	line:92	struct:_stat64	access:public
+st_rdev	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    _dev_t st_rdev;$/;"	member	line:93	struct:_stat64	access:public
+st_size	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __MINGW_EXTENSION __int64 st_size;$/;"	member	line:94	struct:_stat64	access:public
+st_atime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time64_t st_atime;$/;"	member	line:95	struct:_stat64	access:public
+st_mtime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time64_t st_mtime;$/;"	member	line:96	struct:_stat64	access:public
+st_ctime	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^    __time64_t st_ctime;$/;"	member	line:97	struct:_stat64	access:public
+__stat64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define __stat64 _stat64$/;"	macro	line:100
+stat64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define stat64   _stat64  \/* for POSIX *\/$/;"	macro	line:101
+fstat64	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define fstat64  _fstat64 \/* for POSIX *\/$/;"	macro	line:102
+_STAT_DEFINED	E:\mingw-w64\mingw64\x86_64-w64-mingw32\include\_mingw_stat64.h	/^#define _STAT_DEFINED$/;"	macro	line:104

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section16_polymorphism" Database="" Version="10000">
+  <Project Name="theproblem_intro_staticbinding" Path="theproblem_intro_staticbinding/theproblem_intro_staticbinding.project" Active="No"/>
+  <Project Name="virtual_functions" Path="virtual_functions/virtual_functions.project" Active="No"/>
+  <Project Name="virtual_destructor" Path="virtual_destructor/virtual_destructor.project" Active="No"/>
+  <Project Name="using_override" Path="using_override/using_override.project" Active="No"/>
+  <Project Name="base_class_reference" Path="base_class_reference/base_class_reference.project" Active="No"/>
+  <Project Name="pure_virtual_function" Path="pure_virtual_function/pure_virtual_function.project" Active="No"/>
+  <Project Name="interfaces" Path="interfaces_start/interfaces_start.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="theproblem_intro_staticbinding" ConfigName="Debug"/>
+      <Project Name="virtual_functions" ConfigName="Debug"/>
+      <Project Name="virtual_destructor" ConfigName="Debug"/>
+      <Project Name="using_override" ConfigName="Debug"/>
+      <Project Name="base_class_reference" ConfigName="Debug"/>
+      <Project Name="pure_virtual_function" ConfigName="Debug"/>
+      <Project Name="interfaces" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="theproblem_intro_staticbinding" ConfigName="Release"/>
+      <Project Name="virtual_functions" ConfigName="Release"/>
+      <Project Name="virtual_destructor" ConfigName="Release"/>
+      <Project Name="using_override" ConfigName="Release"/>
+      <Project Name="base_class_reference" ConfigName="Release"/>
+      <Project Name="pure_virtual_function" ConfigName="Release"/>
+      <Project Name="interfaces" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

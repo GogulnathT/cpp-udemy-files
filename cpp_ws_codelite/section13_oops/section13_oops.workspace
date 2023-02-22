@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section13_oops" Database="" Version="10000">
+  <Project Name="declaring_classes_objects" Path="declaring_classes_objects/declaring_classes_objects.project" Active="No"/>
+  <Project Name="accessing_classmembers" Path="accessing_classmembers/accessing_classmembers.project" Active="No"/>
+  <Project Name="Accessmodifier_Public_private" Path="Accessmodifier_Public_private/Accessmodifier_Public_private.project" Active="No"/>
+  <Project Name="implementing_methods1" Path="implementing_methods1/implementing_methods1.project" Active="No"/>
+  <Project Name="implementing_methods2" Path="implementing_methods2/implementing_methods2.project" Active="No"/>
+  <Project Name="constructors_and_destructors" Path="constructors_and_destructors/constructors_and_destructors.project" Active="No"/>
+  <Project Name="default_constructor" Path="default_constructor/default_constructor.project" Active="No"/>
+  <Project Name="constructor_initialization_lists" Path="constructor_initialization_lists/constructor_initialization_lists.project" Active="No"/>
+  <Project Name="Delegating_constructors" Path="Delegating_constructors/Delegating_constructors.project" Active="No"/>
+  <Project Name="default_constructor_parameters" Path="default_constructor_parameters/default_constructor_parameters.project" Active="No"/>
+  <Project Name="copy_constructor" Path="copy_constructor/copy_constructor.project" Active="No"/>
+  <Project Name="shallow_copy" Path="shallow_copy/shallow_copy.project" Active="No"/>
+  <Project Name="deep_copy" Path="deep_copy/deep_copy.project" Active="No"/>
+  <Project Name="move_constructor" Path="move_constructor/move_constructor.project" Active="No"/>
+  <Project Name="const_in_class" Path="const_in_class/const_in_class.project" Active="No"/>
+  <Project Name="static_class_members" Path="static_class_members/static_class_members.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="declaring_classes_objects" ConfigName="Debug"/>
+      <Project Name="accessing_classmembers" ConfigName="Debug"/>
+      <Project Name="Accessmodifier_Public_private" ConfigName="Debug"/>
+      <Project Name="implementing_methods1" ConfigName="Debug"/>
+      <Project Name="implementing_methods2" ConfigName="Debug"/>
+      <Project Name="constructors_and_destructors" ConfigName="Debug"/>
+      <Project Name="default_constructor" ConfigName="Debug"/>
+      <Project Name="constructor_initialization_lists" ConfigName="Debug"/>
+      <Project Name="Delegating_constructors" ConfigName="Debug"/>
+      <Project Name="default_constructor_parameters" ConfigName="Debug"/>
+      <Project Name="copy_constructor" ConfigName="Debug"/>
+      <Project Name="shallow_copy" ConfigName="Debug"/>
+      <Project Name="deep_copy" ConfigName="Debug"/>
+      <Project Name="move_constructor" ConfigName="Debug"/>
+      <Project Name="const_in_class" ConfigName="Debug"/>
+      <Project Name="static_class_members" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="declaring_classes_objects" ConfigName="Release"/>
+      <Project Name="accessing_classmembers" ConfigName="Release"/>
+      <Project Name="Accessmodifier_Public_private" ConfigName="Release"/>
+      <Project Name="implementing_methods1" ConfigName="Release"/>
+      <Project Name="implementing_methods2" ConfigName="Release"/>
+      <Project Name="constructors_and_destructors" ConfigName="Release"/>
+      <Project Name="default_constructor" ConfigName="Release"/>
+      <Project Name="constructor_initialization_lists" ConfigName="Release"/>
+      <Project Name="Delegating_constructors" ConfigName="Release"/>
+      <Project Name="default_constructor_parameters" ConfigName="Release"/>
+      <Project Name="copy_constructor" ConfigName="Release"/>
+      <Project Name="shallow_copy" ConfigName="Release"/>
+      <Project Name="deep_copy" ConfigName="Release"/>
+      <Project Name="move_constructor" ConfigName="Release"/>
+      <Project Name="const_in_class" ConfigName="Release"/>
+      <Project Name="static_class_members" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

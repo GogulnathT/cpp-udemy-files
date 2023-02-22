@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="individual_problems" Database="" Version="10000">
+  <Project Name="arraysum_indices" Path="arraysum_indices/arraysum_indices.project" Active="No"/>
+  <Project Name="varied_array_hackerrank" Path="varied_array_hackerrank/varied_array_hackerrank.project" Active="No"/>
+  <Project Name="fibonacci_series" Path="fibonacci_series/fibonacci_series.project" Active="No"/>
+  <Project Name="vowel_palindrome" Path="vowel_palindrome/vowel_palindrome.project" Active="No"/>
+  <Project Name="array_operations" Path="array_operations/array_operations.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="arraysum_indices" ConfigName="Debug"/>
+      <Project Name="varied_array_hackerrank" ConfigName="Debug"/>
+      <Project Name="fibonacci_series" ConfigName="Debug"/>
+      <Project Name="vowel_palindrome" ConfigName="Debug"/>
+      <Project Name="array_operations" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="arraysum_indices" ConfigName="Release"/>
+      <Project Name="varied_array_hackerrank" ConfigName="Release"/>
+      <Project Name="fibonacci_series" ConfigName="Release"/>
+      <Project Name="vowel_palindrome" ConfigName="Release"/>
+      <Project Name="array_operations" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

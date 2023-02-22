@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="hashtables" Database="" Version="10000">
+  <Project Name="unordered_map" Path="unordered_map/unordered_map.project" Active="No"/>
+  <Project Name="finding_duplicate_using_unorderedmap" Path="finding_duplicate_using_unorderedmap/finding_duplicate_using_unorderedmap.project" Active="No"/>
+  <Project Name="iterating_hashmap" Path="iterating_hashmap/iterating_hashmap.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="unordered_map" ConfigName="Debug"/>
+      <Project Name="finding_duplicate_using_unorderedmap" ConfigName="Debug"/>
+      <Project Name="iterating_hashmap" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="unordered_map" ConfigName="Release"/>
+      <Project Name="finding_duplicate_using_unorderedmap" ConfigName="Release"/>
+      <Project Name="iterating_hashmap" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

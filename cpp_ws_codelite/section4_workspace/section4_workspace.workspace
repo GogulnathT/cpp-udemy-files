@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section4_workspace" Database="" Version="10000">
+  <Project Name="project1" Path="project1/project1.project" Active="No"/>
+  <Project Name="firstprogram" Path="section4_workspace/section4_workspace.project" Active="Yes"/>
+  <Project Name="linker_error" Path="linker_error/linker_error.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="project1" ConfigName="Debug"/>
+      <Project Name="firstprogram" ConfigName="Debug"/>
+      <Project Name="linker_error" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="project1" ConfigName="Release"/>
+      <Project Name="firstprogram" ConfigName="Release"/>
+      <Project Name="linker_error" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

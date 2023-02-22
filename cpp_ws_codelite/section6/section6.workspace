@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section6" Database="" Version="10000">
+  <Project Name="initialising_variables" Path="initialising_variables/initialising_variables.project" Active="No"/>
+  <Project Name="global_variables" Path="global_variables/global_variables.project" Active="No"/>
+  <Project Name="primitive_types" Path="primitive_types/primitive_types.project" Active="No"/>
+  <Project Name="sizeof_operator" Path="sizeof_operator/sizeof_operator.project" Active="No"/>
+  <Project Name="constants" Path="constants/constants.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="initialising_variables" ConfigName="Debug"/>
+      <Project Name="global_variables" ConfigName="Debug"/>
+      <Project Name="primitive_types" ConfigName="Debug"/>
+      <Project Name="sizeof_operator" ConfigName="Debug"/>
+      <Project Name="constants" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="initialising_variables" ConfigName="Release"/>
+      <Project Name="global_variables" ConfigName="Release"/>
+      <Project Name="primitive_types" ConfigName="Release"/>
+      <Project Name="sizeof_operator" ConfigName="Release"/>
+      <Project Name="constants" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

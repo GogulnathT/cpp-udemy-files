@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section18_exception_handling" Database="" Version="10000">
+  <Project Name="intro_KMPL" Path="intro_KPL/intro_KPL.project" Active="No"/>
+  <Project Name="function_KMPL" Path="function_KMPL/function_KMPL.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="intro_KMPL" ConfigName="Debug"/>
+      <Project Name="function_KMPL" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="intro_KMPL" ConfigName="Release"/>
+      <Project Name="function_KMPL" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

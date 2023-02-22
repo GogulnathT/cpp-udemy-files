@@ -1,0 +1,10 @@
+-IE:\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IE:\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IE:\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IE:\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IE:\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IE:\mingw-w64\mingw64\x86_64-w64-mingw32\include
+-IE:\codelite_workspaces\cpp_ws_codelite\section9\rangebased_for
+-std=c++17
+-target
+x86_64-w64-mingw32

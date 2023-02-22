@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section10" Database="" Version="10000">
+  <Project Name="c_stlye_string" Path="c_stlye_string/c_stlye_string.project" Active="No"/>
+  <Project Name="cpp_string" Path="cpp_string/cpp_string.project" Active="No"/>
+  <Project Name="section_challenge_cipher" Path="section_challenge_cipher/section_challenge_cipher.project" Active="No"/>
+  <Project Name="string_assigntest" Path="string_assigntest/string_assigntest.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="c_stlye_string" ConfigName="Debug"/>
+      <Project Name="cpp_string" ConfigName="Debug"/>
+      <Project Name="section_challenge_cipher" ConfigName="Debug"/>
+      <Project Name="string_assigntest" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="c_stlye_string" ConfigName="Release"/>
+      <Project Name="cpp_string" ConfigName="Release"/>
+      <Project Name="section_challenge_cipher" ConfigName="Release"/>
+      <Project Name="string_assigntest" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

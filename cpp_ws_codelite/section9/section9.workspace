@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section9" Database="" Version="10000">
+  <Project Name="if_statement" Path="if_statement/if_statement.project" Active="No"/>
+  <Project Name="if_else_statement" Path="if_else_statement/if_else_statement.project" Active="No"/>
+  <Project Name="enum_practice" Path="enum_practice/enum_practice.project" Active="No"/>
+  <Project Name="switch_enum" Path="switch_enum/switch_enum.project" Active="No"/>
+  <Project Name="conditional_operator" Path="conditional_operator/conditional_operator.project" Active="No"/>
+  <Project Name="for_loop" Path="for_loop/for_loop.project" Active="No"/>
+  <Project Name="for_pattern" Path="for_pattern/for_pattern.project" Active="Yes"/>
+  <Project Name="rangebased_for" Path="rangebased_for/rangebased_for.project" Active="No"/>
+  <Project Name="while_loop" Path="while_loop/while_loop.project" Active="No"/>
+  <Project Name="do_while_loop" Path="do_while_loop/do_while_loop.project" Active="No"/>
+  <Project Name="nested_loop" Path="nested_loop/nested_loop.project" Active="No"/>
+  <Project Name="nested_loop_vector" Path="nested_loop_vector/nested_loop_vector.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="if_statement" ConfigName="Debug"/>
+      <Project Name="if_else_statement" ConfigName="Debug"/>
+      <Project Name="enum_practice" ConfigName="Debug"/>
+      <Project Name="switch_enum" ConfigName="Debug"/>
+      <Project Name="conditional_operator" ConfigName="Debug"/>
+      <Project Name="for_loop" ConfigName="Debug"/>
+      <Project Name="for_pattern" ConfigName="Debug"/>
+      <Project Name="rangebased_for" ConfigName="Debug"/>
+      <Project Name="while_loop" ConfigName="Debug"/>
+      <Project Name="do_while_loop" ConfigName="Debug"/>
+      <Project Name="nested_loop" ConfigName="Debug"/>
+      <Project Name="nested_loop_vector" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="if_statement" ConfigName="Release"/>
+      <Project Name="if_else_statement" ConfigName="Release"/>
+      <Project Name="enum_practice" ConfigName="Release"/>
+      <Project Name="switch_enum" ConfigName="Release"/>
+      <Project Name="conditional_operator" ConfigName="Release"/>
+      <Project Name="for_loop" ConfigName="Release"/>
+      <Project Name="for_pattern" ConfigName="Release"/>
+      <Project Name="rangebased_for" ConfigName="Release"/>
+      <Project Name="while_loop" ConfigName="Release"/>
+      <Project Name="do_while_loop" ConfigName="Release"/>
+      <Project Name="nested_loop" ConfigName="Release"/>
+      <Project Name="nested_loop_vector" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

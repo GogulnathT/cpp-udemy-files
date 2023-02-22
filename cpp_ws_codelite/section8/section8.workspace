@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section8" Database="" Version="10000">
+  <Project Name="assignment_operator" Path="assignment_operator/assignment_operator.project" Active="No"/>
+  <Project Name="arithmetic_operator" Path="arithmetic_operator/arithmetic_operator.project" Active="No"/>
+  <Project Name="mixedexpressions" Path="mixedexpressions/mixedexpressions.project" Active="No"/>
+  <Project Name="equality_operator" Path="equality_operator/equality_operator.project" Active="No"/>
+  <Project Name="relational_operator" Path="relational_operator/relational_operator.project" Active="No"/>
+  <Project Name="logical_operator" Path="logical_operator/logical_operator.project" Active="Yes"/>
+  <Project Name="section_challenge" Path="section_challenge/section_challenge.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="assignment_operator" ConfigName="Debug"/>
+      <Project Name="arithmetic_operator" ConfigName="Debug"/>
+      <Project Name="mixedexpressions" ConfigName="Debug"/>
+      <Project Name="equality_operator" ConfigName="Debug"/>
+      <Project Name="relational_operator" ConfigName="Debug"/>
+      <Project Name="logical_operator" ConfigName="Debug"/>
+      <Project Name="section_challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="assignment_operator" ConfigName="Release"/>
+      <Project Name="arithmetic_operator" ConfigName="Release"/>
+      <Project Name="mixedexpressions" ConfigName="Release"/>
+      <Project Name="equality_operator" ConfigName="Release"/>
+      <Project Name="relational_operator" ConfigName="Release"/>
+      <Project Name="logical_operator" ConfigName="Release"/>
+      <Project Name="section_challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
