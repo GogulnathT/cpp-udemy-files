@@ -1,4 +1,6 @@
 #include <iostream>
+#include <string>
+
 using namespace std;
 int main()
 {
@@ -17,6 +19,9 @@ int main()
    long double dist_earth_andromeda{24000387e19};
    cout<<"The distance between Earth and the Galaxy Andromeda is "<< dist_earth_andromeda<< endl;
    //similar for float and other types  
-   
+
+   string str = "This is awesome";
+   cout<<str<<+ "and I am adding this"<<endl;   
+
     return 0;
 }
